@@ -650,3 +650,25 @@ Your development environment is your 道具 (どうぐ - tools). Invest time in 
 ---
 *Tags: #tools #ide #productivity #git #automation #development*  
 *Related: [[Programming/Python Fundamentals]] | [[🗺️ Knowledge Base - Main Index]] | [[Career/Skill Development]]*
+
+
+## Practical Application: Portfolio Website Project
+
+**See It In Action**: [[Website Development/README]]
+
+This knowledge base includes a real-world website development project that demonstrates many of the tools and practices covered here:
+
+### Git & GitHub Pages Workflow
+- [[Website Development/Deployment/Github Pages Setup]] - Practical deployment guide
+- [[Git Push Conflict Troubleshooting]] - Real troubleshooting scenarios
+
+### Feature Implementation
+- [[Website Development/Features/Privacy Filter - Matrix Decode]] - JavaScript + CSS implementation
+
+### Development Process
+The Website Development project showcases:
+- ✅ **Version control** - Git workflow from development to deployment
+- ✅ **IDE usage** - VS Code for HTML/CSS/JavaScript development
+- ✅ **Command line** - Terminal commands for Git operations
+- ✅ **Project organization** - Structured file management
+- ✅ **Documentation** - Comprehensive implementation notes

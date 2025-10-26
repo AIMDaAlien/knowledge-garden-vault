@@ -16,7 +16,7 @@ Computers excel at automating decision-making through **conditional logic** (条
 These operators compare values and return `True` or `False`:
 
 | Operator | Meaning | Example | Result |
-|----------|---------|---------|--------|
+|----------|---------|---------|---------|
 | `==` | Equal to | `5 == 5` | `True` |
 | `!=` | Not equal | `5 != 3` | `True` |
 | `>` | Greater than | `7 > 3` | `True` |
