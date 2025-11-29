@@ -1,3 +1,7 @@
+---
+{}
+---
+
 # Tech Research Strategies
 
 #research #technology #due-diligence #hardware #software

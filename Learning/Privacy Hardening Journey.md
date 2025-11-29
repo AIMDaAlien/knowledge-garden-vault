@@ -1,3 +1,7 @@
+---
+{}
+---
+
 # Privacy Hardening Journey
 
 #privacy #security #android #smart-devices #data-protection

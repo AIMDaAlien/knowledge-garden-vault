@@ -1,3 +1,7 @@
+---
+{}
+---
+
 # 3D Printing Optimization Journey
 
 #3d-printing #bambu-lab #optimization #gcode #petg-cf

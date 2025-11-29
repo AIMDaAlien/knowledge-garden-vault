@@ -1,3 +1,7 @@
+---
+{}
+---
+
 # Troubleshooting Lessons Learned
 
 #troubleshooting #problem-solving #experience #android #hardware
